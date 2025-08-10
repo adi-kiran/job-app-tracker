@@ -4,7 +4,7 @@
   <a href="https://github.com/othneildrew/Best-README-Template">
     <img src="https://github.com/adi-kiran/career-flow/assets/40449660/8c9037a2-1800-484b-a1a8-f05ca8e3aa82" alt="Logo" width="65" height="65">
   </a>
-  <h3 align="center">Career Flow</h3>
+  <h3 align="center">Job Application Tracker</h3>
   <p align="center">
     🚀Streamline Your Job Application Process! 🚀
     <br />
@@ -42,10 +42,10 @@
 <img src="https://img.shields.io/github/stars/adi-kiran/career-flow?style=flat-square" alt="career flow stars"/>
 </a>
 <a href="https://github.com/adi-kiran/career-flow/issues" target="blank">
-<img src="https://img.shields.io/github/issues/adi-kiran/career-flow?style=flat-square" alt="career flow issues"/>
+<img src="https://img.shields.io/github/issues/adi-kiran/career-flow?style=flat-square" alt="job app tracker issues"/>
 </a>
 <a href="https://github.com/adi-kiran/career-flow/issues" target="blank">
-<img src="https://img.shields.io/github/issues-closed/adi-kiran/career-flow" alt="career flow issues closed"/>
+<img src="https://img.shields.io/github/issues-closed/adi-kiran/career-flow" alt="job app tracker issues closed"/>
 </a>
 <a href="https://github.com/adi-kiran/career-flow/graphs/contributors" alt="Contributors">
 <img src="https://img.shields.io/github/contributors/adi-kiran/career-flow" /></a>
@@ -61,7 +61,7 @@
 <img src ="https://github.com/adi-kiran/career-flow/assets/40449660/91016c08-fc4e-47a9-8297-cff3c8bcdd5e" width='800'>
 
 
-## **🔥 Career Flow: Streamline Your Job Application Process! 🔥**
+## **🔥 Job App Tracker: Streamline Your Job Application Process! 🔥**
  
 🌟 Welcome to our application, your one-stop hub for optimizing your job application process! We've designed a user-friendly platform to streamline your job hunt, enhance organization, and elevate your success rate.
  
@@ -93,7 +93,7 @@ Navigate your career with CareerFlow 🚀 – Where your job search finds its pe
 
 # Table of Contents  
 
-- [Why Choose Career Flow!](#-why-choose-career-flow)
+- [Why Choose Job App Tracker!](#-why-choose-career-flow)
 - [Walkthrough](#walkthrough)
 - [Application Screenshots:](#application-screenshots)
   - [Homepage](#homepage)
@@ -111,7 +111,7 @@ Navigate your career with CareerFlow 🚀 – Where your job search finds its pe
 - [License](#license)
 
 
-## **💼 Why choose Career Flow!**
+## **💼 Why choose Job Application Tracker!**
 
 - **Effortless Application Tracking:** Utilize our Kanban board with drag-and-drop functionality for streamlined application tracking.
 
@@ -131,7 +131,7 @@ Download now and take charge of your career path! 🚀
 
 # Walkthrough
 
-Link to the implementation video of the Career Flow application: 
+Link to the implementation video of the job application tracker app: 
 
 # Application Screenshots
  
@@ -253,7 +253,7 @@ The success of these individuals and companies is a testament to the effectivene
  
 ## Troubleshooting
 
-If you encounter issues while using Career Flow, here are some common problems and their solutions :  [Troubleshooting.md](https://github.com/adi-kiran/career-flow/edit/main/Troubleshooting.md)
+If you encounter issues while using the app, here are some common problems and their solutions :  [Troubleshooting.md](https://github.com/adi-kiran/career-flow/edit/main/Troubleshooting.md)
 
 ## Roadmap
 
