@@ -58,7 +58,7 @@
 <a href="https://img.shields.io/github/repo-size/adi-kiran/career-flow" alt="repo size">
 <img src="https://img.shields.io/github/repo-size/adi-kiran/career-flow" /></a>
 
-<img src ="https://github.com/adi-kiran/career-flow/assets/40449660/91016c08-fc4e-47a9-8297-cff3c8bcdd5e" width='800'>
+<!---<img src ="https://github.com/adi-kiran/career-flow/assets/40449660/91016c08-fc4e-47a9-8297-cff3c8bcdd5e" width='800'>-->
 
 
 ## **🔥 Job App Tracker: Streamline Your Job Application Process! 🔥**
@@ -127,7 +127,7 @@ In today's competitive job market, organization and connections are crucial for 
 
 Download now and take charge of your career path! 🚀
 
-![ezgif com-video-to-gif (1)](https://github.com/adi-kiran/career-flow/assets/19224584/c6789f5f-e026-4a60-ae13-618e4bc6db25)
+<!---![ezgif com-video-to-gif (1)](https://github.com/adi-kiran/career-flow/assets/19224584/c6789f5f-e026-4a60-ae13-618e4bc6db25)-->
 
 # Walkthrough
 
